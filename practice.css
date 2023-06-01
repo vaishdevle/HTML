@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif !important;
+}
+.navigation{
+    background-color: rgb(255, 255, 255);
+    height: 12vh;
+    
+}
+.links{
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+    margin-right: 180px;
+}
+.logo img{
+    width: 168px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+li{
+    display: inline-block;
+    margin-right: 52px;
+    margin-top: 30px;
+}
+li a{
+    font-size: 16px;
+    font-weight: 500;
+}
+button{
+    padding: 13px;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    background-color: #2B7DDD;
+}
+
+.container1{
+    background-color: #f4f4f485;
+    display: flex;
+    height: 100vh;
+}
+.section1{
+    margin-left: 150px;
+    margin-top: 88px;
+}
+h2{
+    font-size: 58px;
+}
+span{
+    color: #2B7DDD;
+}
+p{
+    color: #74787b;
+    margin-top: 20px;
+    font-size: 17px;
+    line-height: 1.8;
+}
+.section1-content button{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    fill: #2B7DDD;
+    color: #2B7DDD;
+    background-color: #f4f4f485;;
+    border-style: solid;
+    border-width: 1.5px 1.5px 1.5px 1.5px;
+    border-radius: 10px 10px 10px 10px;
+    padding: 16px 32px 16px 32px;
+    margin-top: 12px;
+    display: flex;
+
+}
+button img{
+    margin-right: 13px;
+}
+.section2 img{
+    margin-top: 95px;
+    margin-left: 203px;
+}
+.container2{
+    display: flex;
+    background-color: #f4f4f485;;
+}
+h3{
+    font-size: 42px;
+}
+.image img{
+    margin-left: 96px;
+}
+.buttons{
+    margin-top: 25px;
+}
+.buttons button{
+    text-decoration: none;
+    fill:#2B7DDD;
+    background-color: #f4f4f485;
+    border-radius: 25px;
+    border-width: 1.5px;
+    color: #49474753;
+    border-style: solid;
+    margin: 10px 10px;
+}
+button a{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #74787b;
+}

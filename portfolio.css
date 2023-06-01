@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #f4f4f485;
+    height: 90vh;
+    background-size: cover;
+}
+.navigation{
+    width: 100%;
+    background-color:#d9b98f;
+    height: 12vh;
+}
+.menubar{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 55px;
+    /* padding: 12px; */
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-left: 117px;
+    margin-top: 12px;
+}
+.logo img{
+
+}
+.menu{
+    margin-right: 85px;
+
+}
+.menu  a:hover{
+    color:cornflowerblue;
+}
+li{
+    display: inline-block;
+    margin-top: 25px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 21px;
+}
+h3{
+    margin-top: 20px;
+    color: brown;
+    font-style: bold;
+    font-family: 'Bruno Ace SC', cursive;
+
+}
+.home-content{
+    margin-top: 121px;
+}
+.home{
+    display: flex;
+    margin-left: 149px;
+    margin-top: 86px;
+    
+
+}
+span{
+    font-size: 70px;
+    color: brown;
+}
+h1{
+    font-size: 55px;
+}
+p{
+    font-size: 20px;
+    /* font-style: bold; */
+    font-weight: 600;
+}
+.image img{
+    margin-bottom: 12px;
+    margin-left: 256px;
+    border: 10px solid brown;
+    border-color: brown;
+    border-radius: 100%;
+}
+.About{
+    margin-top: 100px;
+    background-color: cadetblue;
+    height: 90vh;
+    background-size: cover;
+}
+.aboutmenu h2{
+    margin-top: 10px;
+    text-align: center;
+    background-color: sandybrown;
+    font-size: 32px;
+    /* background-size: 30vh; */
+    height: 10vh;
+
+}
+.aboutmenu p{
+    text-align: center;
+    margin-top: 49px;
+    margin-left: 15px;
+    line-height: 57px;
+    font-size: 30px;
+}
+.data{
+    background-color: darkgray;
+    text-align: center;
+}
+.data h3{
+    font-family: serif;
+    color: black;
+}
+.data h2{
+    color: black;
+}
+.links a:hover{
+    color: brown;
+}
+.links{
+    background-color:thistle;
+}

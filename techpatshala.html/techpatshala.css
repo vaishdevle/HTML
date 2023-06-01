@@ -1,0 +1,120 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+    height: 100vh;
+}
+.main{
+    display: flex;
+}
+.image img{
+    padding:127px 130px;
+    vertical-align: center;
+    /* display: flex; */
+    /* display:inline-block; */
+    max-width: 100%;
+}
+span h2{
+    font-size: 42px;
+    /* padding: 60px 80px; */
+    margin-left: 41px;
+    position: absolute;
+    margin-top: 127px;
+}
+.form{
+    margin-top: 250px;
+    
+}
+.form form{
+    margin-right: 260px;
+}
+label{
+    font-size: 14px;
+    line-height: 4;
+    margin-left: 44px;
+}
+/* label input{
+    margin-left: 60px;
+    
+} */
+.form label input{
+    padding: 16px 70px;
+}
+input[type="text" i] {
+    padding: 16px 109px ;
+    margin-left: 44px;
+    background: #FFFFFF ;
+    border: 1px solid #EDEDED ;
+    border-radius: 6px ;
+    font-size: 1rem ;
+    outline-color: #F7F8FB ;
+    color: #4f547b ;
+
+}
+input[type="phone" i] {
+    padding: 16px 109px !important;
+    margin-left: 44px;
+    background: #FFFFFF !important;
+    border: 1px solid #EDEDED !important;
+    border-radius: 6px !important;
+    font-size: 1rem !important;
+    outline-color: #F7F8FB !important;
+    color: #4f547b !important;
+
+}
+input[type="email" i] {
+    padding: 16px 109px !important;
+    margin-left: 44px;
+    background: #FFFFFF !important;
+    border: 1px solid #EDEDED !important;
+    border-radius: 6px !important;
+    font-size: 1rem !important;
+    outline-color: #F7F8FB !important;
+    color: #4f547b !important;
+
+}
+input[type="button" i]{
+    padding: 16px 40px!important;
+    background-color: rgb(19 97 224) !important;
+    font-size: 15px;
+    margin: 27px 44px;
+    border-radius: 6px;
+    color: #EDEDED ;
+}
+hr{
+    margin-top: 60px;
+}
+.container{
+    display: flex;
+}
+.contact{
+    flex-direction: column;
+    line-height: 40px;
+    padding: 1px 74px;
+
+}
+
+.img img{
+    padding: 50px 74px;
+    height: 44px;
+    width: 197px;
+}
+.heading{
+    padding: 24px 74px;
+
+}
+.connect{
+    margin: 124px 171px;
+    padding: 9px;
+}
+
+.icons{
+    margin-left: 65px;
+    padding: 4px;
+    
+
+}
+
+
